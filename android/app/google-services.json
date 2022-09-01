@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31316003070",
+    "project_id": "smartly-shopping",
+    "storage_bucket": "smartly-shopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31316003070:android:1f22d9ac19c09a69acbdaf",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31316003070-fij1s0motmiklqkgafjj935bo0eql4ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIt3RzAkXKwjVr8_3gKBCb9jh6kXUWgUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31316003070-fij1s0motmiklqkgafjj935bo0eql4ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
